@@ -29,9 +29,9 @@
       <a href="https://github.com/doleckijakub?tab=repositories&q=&type=&language=c%2B%2B&sort=">
         <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus" />
       </a>
-      <a href="https://github.com/doleckijakub?tab=repositories&q=&type=&language=php&sort=">
+<!--       <a href="https://github.com/doleckijakub?tab=repositories&q=&type=&language=php&sort=">
         <img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php" />
-      </a>
+      </a> -->
     </td>
     <td width="2000px" align="center">
       <h3>OS</h3>
