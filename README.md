@@ -4,12 +4,11 @@
     <b>Welcome to my profile!</b><br><br>
     <i>
         I'm Jakub.<br>
-        Currently finished high-school and working on my github porftolio.<br>
-        Open to collaborating to any interesting and innovative projects.<br>
+        Currently working on my github porftolio...<br>
     </i><br>
-    <a href="https://leetcode.com/doleckijakub/">
+<!--     <a href="https://leetcode.com/doleckijakub/">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>
+    </a> -->
 </p>
 
 <p align="center">
@@ -20,7 +19,7 @@
 
 <table width="100%" style="border:none" align="center">
   <tr>
-    <td width="2000px" align="center">
+<!--     <td width="2000px" align="center">
       <h3>Languages</h3>
       <br />
       <a href="https://github.com/doleckijakub?tab=repositories&q=&type=&language=c&sort=">
@@ -29,16 +28,16 @@
       <a href="https://github.com/doleckijakub?tab=repositories&q=&type=&language=c%2B%2B&sort=">
         <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus" />
       </a>
-<!--       <a href="https://github.com/doleckijakub?tab=repositories&q=&type=&language=php&sort=">
+      <a href="https://github.com/doleckijakub?tab=repositories&q=&type=&language=php&sort=">
         <img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php" />
-      </a> -->
-    </td>
-    <td width="2000px" align="center">
+      </a>
+    </td> -->
+<!--     <td width="2000px" align="center">
       <h3>OS</h3>
       <br />
       <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux" />
       <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
